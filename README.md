@@ -5,7 +5,7 @@
 To install the infrastructure, run the following commands in your terminal:  
     
 ```
-$ az login # incase your using Azure cloud 
+$ az login  #incase your using Azure cloud 
 
 $ git clone https://github.com/yovelchen/Terraform.git
     
