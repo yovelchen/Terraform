@@ -5,16 +5,19 @@
 To install the infrastructure, run the following commands in a terminal:  
     
 ```
-git clone https://gitlab.com/sela-1090/students/lioratari/terraform.git  
+$ git clone https://github.com/yovelchen/Terraform.git
     
-cd terraform-infrastructure  
+$ cd Terraform
+
+$ cd infrastructure  
 ```
-Then, open a terminal in the terraform directory and run the following command:  
-    
+Then, 
 ```
-terraform init  
-terraform plan  
-terraform apply
+$ terraform init
+
+$ terraform plan  
+
+$ terraform apply
 ```
 
 ![architecture](map.png)
